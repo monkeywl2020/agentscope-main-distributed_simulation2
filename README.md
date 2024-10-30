@@ -1,0 +1,2 @@
+# agentscope-main-distributed_simulation2
+ai-agent测试本地大模型性能 wltest\distributed_simulation 和wltest\distributed_simulation2
